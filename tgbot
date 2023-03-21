@@ -1,6 +1,6 @@
 const { Telegraf } = require('telegraf');
-const bot = new Telegraf('6221661261:AAGBcdm7Xotx04IijZ4L8Hc4fj5OvNnLZH8');
-const chatId = 423178720;
+const bot = new Telegraf('xxxxxxx:AAGBcdm7Xotx04IijZ4L8Hc4fj5OvNnLZH8');
+const chatId = xxxxxxx;
 
 
 const { exec,spawn, execFile } = require('node:child_process');
