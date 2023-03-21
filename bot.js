@@ -12,7 +12,7 @@ execFile('C:\\Users\\User\\tg_bot\\123.bat', (err, stdout, stderr) => {
     return;
   }
   console.log(stdout);
-  bot.telegram.sendMessage(chatId, 'Command succesful');
+  bot.telegram.sendMessage(chatId, 'Command succesful+');
     } 
   )}
 );
